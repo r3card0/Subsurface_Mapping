@@ -2,6 +2,9 @@
 
 # Subsurface Mapping using Python
 
+## Objective
+Use Python libraries to create contour maps
+
 ## Installation
 ```bash
 pip install pandas matplotlib jupyter plotly
